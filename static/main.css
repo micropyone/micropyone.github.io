@@ -49,3 +49,7 @@ footer {
 div .card {
     margin-bottom: 30px;
 }
+
+.btn-block .btn {
+    width: 100%;
+}
