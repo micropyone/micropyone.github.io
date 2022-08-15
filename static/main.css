@@ -31,18 +31,18 @@ footer {
     border-radius: 3px;
 }
 
-.jumbotron {
-    margin: 80px 0 20px;
-    padding: 25px;
+.jumbotron-main {
+    margin: 60px 0 20px;
+    padding: 30px 10px 10px;
     border-radius: 3px;
-    background-color: #3a91b5;
+    background-color: #2184ad;
 }
 
-.jumbotron h2 {
+.jumbotron-main h2 {
     color: #fff;
 }
 
-.jumbotron p.lead {
+.jumbotron-main p.lead {
     color: #e3fbf5;
 }
 
