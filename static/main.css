@@ -53,3 +53,22 @@ div .card {
 .btn-block .btn {
     width: 100%;
 }
+
+.icon-toeic87,
+.icon-cipher87,
+.icon-money87 {
+    color: #fff;
+    padding: 30px;
+}
+
+.icon-toeic87 {
+    background-color: #3ab598;
+}
+
+.icon-cipher87 {
+    background-color: #000;
+}
+
+.icon-money87 {
+    background-color: #e92063;
+}
