@@ -54,11 +54,13 @@ div .card {
     width: 100%;
 }
 
-.icon-toeic87,
-.icon-cipher87,
-.icon-money87 {
+.icon-block  {
     color: #fff;
     padding: 50px 30px;
+}
+
+.icon-block i {
+    opacity: 0.9;
 }
 
 .icon-toeic87 {
