@@ -56,7 +56,7 @@ div .card {
 
 .icon-block  {
     color: #fff;
-    padding: 50px 30px;
+    padding: 40px 30px;
 }
 
 .icon-block i {
@@ -73,4 +73,9 @@ div .card {
 
 .icon-money87 {
     background-color: #e92063;
+}
+
+.texti-code,
+.texti-code * {
+    font-family: Consolas, "Microsoft JhengHei";
 }
