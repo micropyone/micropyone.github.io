@@ -38,7 +38,7 @@ footer {
 
 .jumbotron-main {
     margin: 60px 0 20px;
-    padding: 30px 10px 10px;
+    padding: 40px 10px 20px;
     border-radius: 3px;
     background-color: #2184ad;
 }
@@ -68,17 +68,11 @@ div .card {
     opacity: 0.9;
 }
 
-.icon-toeic87 {
-    background-color: #199578;
+.icon-bg {
+    color: #fff;
+    background-color: #2184ad;
 }
 
-.icon-cipher87 {
-    background-color: #000;
-}
-
-.icon-money87 {
-    background-color: #e92063;
-}
 
 .texti-code,
 .texti-code * {
